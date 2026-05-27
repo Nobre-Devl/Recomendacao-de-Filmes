@@ -68,7 +68,7 @@ python treinar_modelo.py
 ### 4. Iniciar a Interface Web
 Com o modelo `.pkl` treinado e salvo na pasta, suba o aplicativo visual rodando o seguinte comando no terminal:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 *Uma aba abrirá automaticamente no seu navegador padrão (geralmente no endereço `http://localhost:8501`).*
 
